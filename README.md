@@ -1,4 +1,4 @@
-Mobile Barcode Scanner using the Google Play services, mobile vision api.
+Mobile Barcode Scanner using the Google Play Service- Mobile Vision API.
 
 This application reads different kinds of barcode format such as:
 
