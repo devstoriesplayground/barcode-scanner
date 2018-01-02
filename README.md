@@ -38,12 +38,6 @@ In this application, I only choose SINGLE_AUTO scanning mode for faster display 
 USAGE FOR DEVELOPERS 
 For GRADLE: <Copy and Paste the following codes>
   
-repositories 
-     * maven 
-     *   url "https://jitpack.io"
-    
-
-
 dependencies 
    * compile 'online.devliving:mvbarcodereader:1.0.9'
    * compile 'com.google.android.gms:play-services-basement:11.0.1'
