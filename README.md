@@ -40,7 +40,7 @@ For GRADLE: <Copy and Paste the following codes>
   
 repositories 
      * maven 
-        url "https://jitpack.io"
+     *   url "https://jitpack.io"
     
 
 
@@ -52,8 +52,8 @@ dependencies
 
 
 For more information about mobile vision api, please follow this link.
-    https://developers.google.com/vision/android/barcodes-overview
+   * https://developers.google.com/vision/android/barcodes-overview
     
 Special thanks for this project.
-    https://github.com/Credntia/MVBarcodeReader
+   * https://github.com/Credntia/MVBarcodeReader
   
