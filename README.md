@@ -39,16 +39,16 @@ USAGE FOR DEVELOPERS
 For GRADLE: <Copy and Paste the following codes>
   
 repositories 
-    maven 
+     * maven 
         url "https://jitpack.io"
     
 
 
 dependencies 
-    compile 'online.devliving:mvbarcodereader:1.0.9'
-    compile 'com.google.android.gms:play-services-basement:11.0.1'
-    compile 'com.google.android.gms:play-services-vision:11.0.1'
-    compile 'com.android.support:support-annotations:25.3.1'
+   * compile 'online.devliving:mvbarcodereader:1.0.9'
+   * compile 'com.google.android.gms:play-services-basement:11.0.1'
+   * compile 'com.google.android.gms:play-services-vision:11.0.1'
+   * compile 'com.android.support:support-annotations:25.3.1'
 
 
 For more information about mobile vision api, please follow this link.
