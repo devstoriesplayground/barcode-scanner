@@ -26,7 +26,7 @@ This application reads different kinds of barcode format such as:
 22. URL
 
 HOW TO USE:
-Scan the barcode after the application reads the scanned objject the result will be displayed in the activity form. It also saves results per scan object. The user can also delete one scan object at a time. 
+Scan the barcode after the application reads the scanned object the result will be displayed in the activity form. It also saves results per scan object. The user can also delete one scan object at a time. 
 
 SCANNING MODE:
 * SINGLE_AUTO: The fastest mode. Returns the first barcode it can detect as soon as possible.
